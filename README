@@ -3,11 +3,6 @@
 ## Overview
 DAS4Orcas is a project aimed at analyzing and processing data related to orca populations using Distributed Acoustic Sensing (DAS) technology. This repository contains scripts and tools necessary for data collection, processing, and analysis.
 
-## Directory Structure
-- `scripts/`: Contains all the scripts used for data processing and analysis.
-- `data/`: Directory where raw and processed data are stored.
-- `results/`: Directory for storing analysis results and visualizations.
-
 ## Installation
 To get started with DAS4Orcas, clone the repository and install the required dependencies:
 - DAS4Whales, that you can install using [this tutorial](https://das4whales.readthedocs.io/en/latest/src/install.html)
